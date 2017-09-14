@@ -1,0 +1,23 @@
+﻿#start,body{
+    font-size:50px;
+    text-align:center;
+    font-family:Roboto;
+    color:lightseagreen;
+    line-height:20px;
+    background-color:blanchedalmond;
+}
+button{
+    
+    font-size:20px;
+    font-weight:bold;
+    border-color:cyan;
+    border-radius:10px;
+    height:50px;  
+}
+p{
+    text-align:center;
+}
+
+
+
+
